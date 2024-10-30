@@ -15,9 +15,11 @@ sections:
     backgroundSize: full
     title: ilookmovies
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      "Welcome to [ilookmovies] – your go-to destination for the latest movies!
+      We're working around the clock to bring you new releases and timeless
+      classics as quickly as possible. Our team is committed to updating our
+      library so you can enjoy the newest films without the wait. Stay tuned and
+      happy watching!"
     styles:
       self:
         height: auto
