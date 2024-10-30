@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     title: ilookmovies
     subtitle: >-
-      "Welcome to ILOOKMOVIES – your go-to destination for the latest movies!
+      "Welcome to ILOOKMOVIES – your go-to destination for the latest movies
       We're working around the clock to bring you new releases and timeless
       classics as quickly as possible. Our team is committed to updating our
       library so you can enjoy the newest films without the wait. Stay tuned and
